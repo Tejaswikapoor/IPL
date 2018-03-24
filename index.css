@@ -1,0 +1,36 @@
+.section1{
+        background-color: black;;
+
+
+        
+    height:80px;
+ display: inline;
+ text-align: center;
+ font-family: cursive;
+ font-size: 50px;
+ color: aliceblue
+ 
+ 
+}
+img{
+    height: 2000px;
+}
+body {
+        
+        background-color: #cccccc;
+    
+ }
+#img1{
+    
+    height: 40px;
+}
+#nav{
+    background:black;
+
+
+    
+    height: 2000px;
+}
+li{
+    font-size: 20px
+}
